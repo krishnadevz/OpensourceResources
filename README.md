@@ -145,6 +145,47 @@ Free Learning Resources related to Web-Development 🔥❤
 * [KNOWLEDGE GATE](https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ/)
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 * [Bhagwan Singh Vishwakarma](https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw)
+Today i am going to tell you guys about Which resources/Learning-Labs GitHub provide for free.
+
+**Learning Path First Basic of GitHub/Git**
+In this path they cover everything basics related to GitHub/Git list as follows
+* [First Day on GitHub](https://lab.github.com/githubtraining/paths/first-day-on-github) 
+* [First Week on GitHub](https://lab.github.com/githubtraining/paths/first-week-on-github) 
+* [InnerSource: theory to practice](https://lab.github.com/githubtraining/paths/innersource:-theory-to-practice) 
+* [Become an open source enterprise](https://lab.github.com/githubtraining/paths/become-an-open-source-enterprise) 
+* [GitHub Universe Workshops](https://lab.github.com/githubtraining/paths/github-universe-workshops) 
+* [Ramp up on Git and GitHub](https://lab.github.com/githubtraining/paths/ramp-up-on-git-and-github)
+* [Setuping Blog with GitHub pages](https://lab.github.com/githubtraining/github-pages)
+
+**Most Important thing Comes Now Languages/Tools&Technologies**
+* [Introduction to HTML](https://lab.github.com/githubtraining/introduction-to-html)
+* [Introduction to Node with Express](https://lab.github.com/everydeveloper/introduction-to-node-with-express)
+* [Introduction to Python](https://lab.github.com/everydeveloper/introduction-to-python)
+* [Intermediate Python](https://lab.github.com/everydeveloper/intermediate-python)
+* [Intermediate NodeJS Course with MongoDB crudApp](https://lab.github.com/everydeveloper/intermediate-nodejs-course)
+* [Introduction to Ruby ](https://lab.github.com/everydeveloper/introduction-to-ruby)
+* [TensorFlow Image Processing ](https://lab.github.com/everydeveloper/introduction-to-tensorflow)
+* [Get Started with TensorFlow ](https://lab.github.com/everydeveloper/advance-tensorflow)
+* [Introduction to Java ](https://lab.github.com/everydeveloper/introduction-to-java)
+* [Introduction to PHP ](https://lab.github.com/everydeveloper/introduction-to-php)
+* [Introduction to Design Thinking ](https://lab.github.com/githubtraining/introduction-to-design-thinking)
+* [starting-with-typescript ](https://lab.github.com/michael-spengler/starting-with-typescript)
+* [Introduction to React ](https://lab.github.com/githubtraining/introduction-to-react)
+<p>And many more Nodejs/rest-Api/Store-Framework You can check it out that adding links suck now move forward👀</p>
+
+**DevOps with GitHub**
+* [GitHub Actions: Continuous Delivery with AWS ](https://lab.github.com/githubtraining/github-actions:-continuous-delivery-with-aws)
+* [GitHub Actions: Continuous Integration ](https://lab.github.com/githubtraining/github-actions:-continuous-integration)
+* [GitHub Actions: Publish to GitHub Packages ](https://lab.github.com/githubtraining/github-actions:-publish-to-github-packages)
+* [GitHub Actions: Writing JavaScript Actions ](https://lab.github.com/githubtraining/github-actions:-writing-javascript-actions)
+* [Getting started with GitHub Apps ](https://lab.github.com/githubtraining/getting-started-with-github-apps)
+* [Continuous integration with CircleCI ](https://lab.github.com/githubtraining/continuous-integration-with-circleci)
+* [Continuous integration with Travis CI ](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci)
+
+<p>And more Learning-labs on GitHub Enterprise you can check it out that </p>On👉[GithubLearningLabs](https://lab.github.com/)
+
+
+
 
 <b>Final Tip</b>After learning basics of HTML/CSS/JS You can go for Freecodecamp certifications those can help you .
 # Please add more resources if you have any i will definitely merge you PR and day by day i am also going to add more resources .
