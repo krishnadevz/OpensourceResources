@@ -5,6 +5,9 @@ Free Learning Resources related to Web-Development 🔥❤
 * [HTML, CSS, and Javascript for Web Developers ](https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270)
 * [HackerNoon Article for Free resources](https://hackernoon.com/top-5-free-online-courses-to-learn-html-css-web-development-in-2020-ae8e7466dfa7)
 * [Tutorials on Webdevelopment by WebdevSimplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+* [CS50X](https://cs50.harvard.edu/x/2020/)
+* [CS50 Youtube channel harvard all playlist included ](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
 * For More tutorials and resources you can youtube or google this are some i find you can contribute more .
 # Reactjs
 - [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit/) - A free, 5-part video course with interactive code examples that will help you learn React.
