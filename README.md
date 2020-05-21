@@ -28,6 +28,7 @@ Free Learning Resources related to Web-Development 🔥❤
 - [Free React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - Recordings from three days of a free online React bootcamp.
 
 - [Scrimba: Learn React for free](https://scrimba.com/g/glearnreact) - 48 hands-on video tutorials building react apps.
+- [React+TypeScript Vibe-happy-development](https://school.geekwall.in/p/B1y3G7-U4/react-typescript-happy-development) -React+TypeScript 30 minutes tutorial 
 
 # List Of Youtubers those will help you to land as a successful web-developer
 * [Program With Erik](http://erik.video)
