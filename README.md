@@ -8,9 +8,11 @@ Free Learning Resources related to Web-Development 🔥❤
 * [CS50X](https://cs50.harvard.edu/x/2020/)
 * [CS50 Youtube channel harvard all playlist included ](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 * [CS50 short introductory tutorials on JS/algo/html/AJAX all building blocks covered playlist ](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW)\
+
+# Other Web-dev essential resources
 * [NPM course for beginners on udemy with 📝](https://www.udemy.com/course/npm-mastering-the-basics/)
 * [React Hooks Course on Scrimba for free](https://scrimba.com/course/greacthooks/)
-
+* [FreeApi List](https://public-apis.io/)
 
 * For More tutorials and resources you can youtube or google this are some i find you can contribute more .
 # Reactjs
