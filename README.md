@@ -13,6 +13,8 @@ Free Learning Resources related to Web-Development 🔥❤
 * [NPM course for beginners on udemy with 📝](https://www.udemy.com/course/npm-mastering-the-basics/)
 * [React Hooks Course on Scrimba for free](https://scrimba.com/course/greacthooks/)
 * [FreeApi List](https://public-apis.io/)
+* [Nodejs Course by IBM](https://developer.ibm.com/technologies/node-js/articles/learn-node-unit-1-overview-nodejs-learning-path/)
+* [Nodejs by IBM in year 2018 published](https://developer.ibm.com/tutorials/learn-nodejs-your-first-node-application/)
 
 * For More tutorials and resources you can youtube or google this are some i find you can contribute more .
 # Reactjs
