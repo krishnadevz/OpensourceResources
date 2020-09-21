@@ -1,7 +1,7 @@
 # FreeLearningResources
 Free Learning Resources related to Web-Development 🔥❤ 
 # HTML+JAVASCRIPT+CSS
-* [Introduction To Computer Science By harward university](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
+* [Introduction To Computer Science By Harvard University](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
 * [HTML, CSS, and Javascript for Web Developers ](https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270)
 * [HackerNoon Article for Free resources](https://hackernoon.com/top-5-free-online-courses-to-learn-html-css-web-development-in-2020-ae8e7466dfa7)
 * [Tutorials on Webdevelopment by WebdevSimplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
