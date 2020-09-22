@@ -208,6 +208,9 @@ In this path they cover everything basics related to GitHub/Git list as follows
 # Free Opensource sites for reading blogs
 * * [Dev.to🔥 ](https://dev.to/)
 
+# Game Dev Youtube channels
+* [Best Game Dev channel C++ by javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
+
 
 
 <b>Final Tip</b>After learning basics of HTML/CSS/JS You can go for Freecodecamp certifications those can help you .
