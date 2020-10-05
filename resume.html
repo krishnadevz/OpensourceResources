@@ -1,0 +1,138 @@
+<!doctype html>
+<html>	
+<head>		
+<title>My web page</title>		
+<meta name="viewport" content="width=device-width, initial-scale=1.0">		
+<style>			
+* {			
+margin: 0;				
+font-family: Tahoma;			
+}			
+img {
+max-width: 100%;			
+}
+.row1, .row2, .row6, .row7, .bg1 {				
+background-color: #ccc;			
+}			
+.row3, .row4, .row5, .row8, .bg2 {				
+background-color: #eee;			
+}			
+.row1, .row7 {				
+width: 80%;				
+margin: 0 auto;				
+display: grid;				
+grid-template-columns: auto auto;				
+grid-gap: 20px;			
+}
+.row4, .row5 {				
+width: 80%;				
+margin: 0 auto;				
+display: grid;				
+grid-template-columns: auto auto auto;				
+grid-gap: 20px;				
+padding-bottom: 40px;			
+}			
+.logo {				
+width: 120px;				
+border-radius: 50%;			
+}			
+.alignright {				
+text-align: right;			
+}			
+.aligncenter {				
+text-align: center;			
+}			
+.bgwhite {				
+background-color: white;				
+padding: 10px;			
+}			
+.bgblack {				
+background-color: black;				
+color: white;				
+padding: 10px;			
+}			
+.row1, .row3, .row6, .row7 {				
+padding: 20px;			
+}			
+.row2, .row8 {				
+padding: 20px;			
+}
+.row2 a {				
+text-decoration: none;				
+background-color: black;				
+color: white;				
+padding: 5px 10px;			
+}			
+.row2 a:hover {				
+background-color: rgb(0,0,0);			
+}		
+.properalign {				
+padding: 30px 0;			
+}			
+@media only screen and (max-width: 576px) {				
+.row1, .row7, .row4, .row5 {				
+grid-template-columns: auto;				
+}				
+.row1 div {					
+text-align: center;				
+}			
+}		
+</style>	
+</head>
+<body>		
+<div class="wrapper bg1">			
+<div class="row1">
+<div>
+<img src="lduo.jpg" class="logo">
+</div>				
+<div class="alignright properalign">					
+<h4>Dinesh</h4>
+<p>Web Developer<br>
+Technical Trainer</p>				
+</div>			
+</div>		
+</div>		
+<div class="wrapper bg1">		
+<div class="row2">				
+<div class="aligncenter">					
+<a href="">Home</a><a href="">About</a><a href="">Contact</a>				
+</div>			
+</div>		
+</div>		
+<div class="wrapper bg2">
+<div class="row3">				
+<div class="aligncenter">					
+<h3>Project/Experience</h3>			
+</div>			
+</div>		
+</div><div class="wrapper bg1">			
+<div class="row7">				
+<div class="bgwhite">					
+<h4 class="aligncenter">Personal Details</h4>				
+<ul>						
+<li>lduo</li>						
+<li>DOB</li>						
+<li>Location</li>						
+<li>Status</li>						
+<li>Phone:</li>					
+</ul>			
+</div>			
+<div class="bgblack">					
+<h4 class="aligncenter">Education / Skillset</h4>					
+<ul>						
+<li>B.tech</li>						
+<li>HTML</li>						
+<li>CSS</li>						
+<li>PHP</li>						
+<li>JavaScript</li>					
+</ul>				
+</div>			
+</div>
+</div>
+<div class="wrapper bg2">
+<div class="row8">
+<div class="aligncenter">&copy; Copyright 2020.</div>
+</div>
+</div>
+</body>
+</html>
