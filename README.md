@@ -20,6 +20,8 @@ Free Learning Resources related to Web-Development 🔥❤
 - [Nodejs Course by IBM](https://developer.ibm.com/technologies/node-js/articles/learn-node-unit-1-overview-nodejs-learning-path/)
 - [Nodejs by IBM in year 2018 published](https://developer.ibm.com/tutorials/learn-nodejs-your-first-node-application/)
 
+- [HarvardX CS50: An introduction to the intellectual enterprises of computer science and the art of programming.](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+
 - For More tutorials and resources you can youtube or google this are some i find you can contribute more .
 
 # Reactjs
@@ -42,6 +44,8 @@ Free Learning Resources related to Web-Development 🔥❤
 
 - [Scrimba: Learn React for free](https://scrimba.com/g/glearnreact) - 48 hands-on video tutorials building react apps.
 - [React+TypeScript Vibe-happy-development](https://school.geekwall.in/p/B1y3G7-U4/react-typescript-happy-development) -React+TypeScript 30 minutes tutorial
+
+- [DigitalOcean: Several tutorials involving usage of React](https://www.digitalocean.com/community/tutorials?q=react)
 
 # Vue.js
 
