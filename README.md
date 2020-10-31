@@ -12,6 +12,7 @@ Free Learning Resources related to Web-Development 🔥❤
 - [CS50 Youtube channel harvard all playlist included ](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 - [CS50 short introductory tutorials on JS/algo/html/AJAX all building blocks covered playlist ](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW)\
 - [A free guide to learn HTML and CSS](https://marksheet.io/)
+- [Design guide](https://refactoringui.com)
 
 # Other Web-dev essential resources
 
@@ -23,7 +24,7 @@ Free Learning Resources related to Web-Development 🔥❤
 
 - [HarvardX CS50: An introduction to the intellectual enterprises of computer science and the art of programming.](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
-- For more tutorials and resources you can look up more and contribute to this repo. 
+- For more tutorials and resources you can look up more and contribute to this repo.
 
 # Reactjs
 
