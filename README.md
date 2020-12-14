@@ -61,6 +61,7 @@ Free Learning Resources related to Web-Development 🔥❤
 
 # List Of Youtubers those will help you to land as a successful web-developer
 
+- [ComputerPhile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)//best for learning foundational concepts of computer science.
 - [Program With Erik](http://erik.video)
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
