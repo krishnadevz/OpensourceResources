@@ -13,6 +13,7 @@ Free Learning Resources related to Web-Development 🔥❤
 - [CS50 short introductory tutorials on JS/algo/html/AJAX all building blocks covered playlist ](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW)\
 - [A free guide to learn HTML and CSS](https://marksheet.io/)
 - [Design guide](https://refactoringui.com)
+- [Free HTML/CSS projects](https://www.codementor.io/projects/html_css)
 
 # Other Web-dev essential resources
 
@@ -48,6 +49,8 @@ Free Learning Resources related to Web-Development 🔥❤
 - [React+TypeScript Vibe-happy-development](https://school.geekwall.in/p/B1y3G7-U4/react-typescript-happy-development) -React+TypeScript 30 minutes tutorial
 
 - [DigitalOcean: Several tutorials involving usage of React](https://www.digitalocean.com/community/tutorials?q=react)
+
+- [Free Reactjs projects](https://www.codementor.io/projects/reactjs)
 
 # Vue.js
 
