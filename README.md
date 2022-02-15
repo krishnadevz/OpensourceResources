@@ -25,6 +25,7 @@ Free Learning Resources related to Web-Development 🔥❤
 
 - [HarvardX CS50: An introduction to the intellectual enterprises of computer science and the art of programming.](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Free Bootstrap 5 cheat sheet](https://bootstrap-cheatsheet.themeselection.com/)
+- [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)
 
 - For more tutorials and resources you can look up more and contribute to this repo.
 
