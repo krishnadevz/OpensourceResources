@@ -14,6 +14,8 @@ Free Learning Resources related to Web-Development 🔥❤
 - [A free guide to learn HTML and CSS](https://marksheet.io/)
 - [Design guide](https://refactoringui.com)
 - [Free HTML/CSS projects](https://www.codementor.io/projects/html_css)
+- [Materio Bootstrap 5 HTML Admin Template](https://themeselection.com/item/materio-free-bootstrap-html-admin-template/) - Most Powerful & Comprehensive Open-source Bootstrap 5 HTML Admin Dashboard Template built for developers.
+
 
 # Other Web-dev essential resources
 
